@@ -72,18 +72,22 @@ To find which topics correlate with each other, we would typically look for topi
 ![011100010](https://github.com/ANewGitHuber/Topic-Model-and-Multinomial-NLP-Model-Trained-from-Job-Description-Data/assets/88078123/88c920e3-e47c-40ee-a150-9cee6977a3f5)
 
 Note that we didn't give enough features so there is no U shape.
+
 But we can also see that topics 15-18 are the best predictors of the outcome.
 
 #### Model Accuracy
 ![00150014](https://github.com/ANewGitHuber/Topic-Model-and-Multinomial-NLP-Model-Trained-from-Job-Description-Data/assets/88078123/cc5e5c0e-df7e-4036-bdea-0a4c4e029836)
+
 Model Accuracy (52.56%). Sentiment Benchmark (47.93%), Word-Count Benchmark (53.87%)
 
 #### Comparison with N-gram Model
 N-gram LASSO
+
 ![151515000010](https://github.com/ANewGitHuber/Topic-Model-and-Multinomial-NLP-Model-Trained-from-Job-Description-Data/assets/88078123/6868a594-38db-4e8d-93d4-53388a350f41)
 ![image](https://github.com/ANewGitHuber/Topic-Model-and-Multinomial-NLP-Model-Trained-from-Job-Description-Data/assets/88078123/919accf0-a9fb-4874-ba2e-589fd0c50bb4)
 
 N-gram Model Accuracy (59.29%)
+
 Note: There is drop in performance of the topic model compared to the ngrams
 
 ### Multinomial Classifier
@@ -100,6 +104,7 @@ Each product category has several different "Issues" in the dataset. In the trai
 
 #### Confusion Matrix
 ![Screenshot](https://github.com/ANewGitHuber/Topic-Model-and-Multinomial-NLP-Model-Trained-from-Job-Description-Data/assets/88078123/c2c2a97a-5082-485e-aa9a-1c66bb54a35c)
+
 "Credit monitoring or identity protection": 44 instances were correctly predicted as "Credit monitoring or identity protection". However, 1 was incorrectly predicted as "Credit reporting company's investigation", 1 as "Improper use of my credit report", 3 as "Incorrect information on credit report", and 3 as "Unable to get credit report/credit score". Overall 44/52 are correct (84.6%).
 
 "Credit reporting company's investigation": 275 instances were correctly predicted as "Credit reporting company's investigation". However, 2 were incorrectly predicted as "Credit monitoring or identity protection", 45 as "Improper use of my credit report", 8 as "Incorrect information on credit report", and 7 as "Unable to get credit report/credit score". Overall 275/375 are correct (73.3%)
