@@ -58,6 +58,7 @@ Topic 5 Top Words:
 #### Highest Proportion Documents (for Topic 14)
 (Document 1) I have I submitted  letters to the credit reporting agency asking for verification of account and how the verification as obtained. All letters were sent certified. I am questioning FCRA 611 nd FCRA 609 process. 
 To date I have not received any reply to by letters sent certified on   2015 and   2015 certified. The Credit reporting agency has refused to reply and provided proper documentation for the records I listed in the correspondence and remove the items since not reply was provided. All copies of the letters and certified mail receipts are attached.
+
 (Document 2) I have I submitted  letters to the credit reporting agency asking for verification of account and how the verification as obtained. All letters were sent certified. I am questioning FCRA 611 nd FCRA 609 process. 
 To date I have not received any reply to by letters sent certified on   2015 and   2015 certified. The Credit reporting agency has refused to reply and provided proper documentation for the records I listed in the correspondence and remove the items since not reply was provided. All copies of the letters and certified mail receipts are attached.
 
