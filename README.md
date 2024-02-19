@@ -70,6 +70,7 @@ To find which topics correlate with each other, we would typically look for topi
 
 #### LASSO Classifier Model based on Topic Proportions Feature
 ![011100010](https://github.com/ANewGitHuber/Topic-Model-and-Multinomial-NLP-Model-Trained-from-Job-Description-Data/assets/88078123/88c920e3-e47c-40ee-a150-9cee6977a3f5)
+
 Note that we didn't give enough features so there is no U shape.
 But we can also see that topics 15-18 are the best predictors of the outcome.
 
