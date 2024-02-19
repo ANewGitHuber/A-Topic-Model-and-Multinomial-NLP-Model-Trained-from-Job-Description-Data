@@ -81,6 +81,7 @@ Model Accuracy (52.56%). Sentiment Benchmark (47.93%), Word-Count Benchmark (53.
 N-gram LASSO
 ![151515000010](https://github.com/ANewGitHuber/Topic-Model-and-Multinomial-NLP-Model-Trained-from-Job-Description-Data/assets/88078123/6868a594-38db-4e8d-93d4-53388a350f41)
 ![image](https://github.com/ANewGitHuber/Topic-Model-and-Multinomial-NLP-Model-Trained-from-Job-Description-Data/assets/88078123/919accf0-a9fb-4874-ba2e-589fd0c50bb4)
+
 N-gram Model Accuracy (59.29%)
 Note: There is drop in performance of the topic model compared to the ngrams
 
