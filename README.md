@@ -107,3 +107,5 @@ Each product category has several different "Issues" in the dataset. In the trai
 "Incorrect information on credit report": 1722 instances were correctly predicted as "Incorrect information on credit report". However, 37 were incorrectly predicted as "Credit monitoring or identity protection", 407 as "Credit reporting company's investigation", 83 as "Improper use of my credit report", 70 as "Unable to get credit report/credit score". Overall 1722/2319 are correct (74.3%).
 
 "Unable to get credit report/credit score": 154 instances were correctly predicted as "Unable to get credit report/credit score". However, 17 were incorrectly predicted as "Credit monitoring or identity protection", 10 as "Credit reporting company's investigation", 3 as "Improper use of my credit report", 15 as "Incorrect information on credit report". Overall 154/199 are correct (77.4%)
+
+@John Chen, Yixin, Qianru, Zhongshi, Functions @Michael Yeomans, 2024, Imperial College London. All rights to source codes are reserved.
